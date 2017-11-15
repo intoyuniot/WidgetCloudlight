@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+ WidgetCloudlight   KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+begin   KEYWORD2
+getCloudSwitch  KEYWORD2
+displayCloudStatus  KEYWORD2
+control  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
